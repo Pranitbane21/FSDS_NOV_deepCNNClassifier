@@ -13,3 +13,5 @@
 9. run tox for testing your package
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipeline
+
+![image](https://raw.githubusercontent.com/Pranitbane21/FSDS_NOV_deepCNNClassifier/master/docs/images/Data%20Ingestion%402x%20(1).png)
